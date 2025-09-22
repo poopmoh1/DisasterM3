@@ -1,10 +1,10 @@
 <h2 align="center">DisasterM3: A Remote Sensing Vision-Language Dataset for Disaster Damage Assessment and Response</h2>
 
-<h5 align="right">by <a href="https://junjue-wang.github.io/homepage/">Junjue Wang*</a>, 
+<h6 align="right"><a href="https://junjue-wang.github.io/homepage/">Junjue Wang*</a>, 
 <a href="https://weihaoxuan.com">Weihao Xuan*</a>, 
 Heli Qi, Zhihao Liu, Kunyi Liu, Yuhan Wu, Hongruixuan Chen,
 Jian Song, Junshi Xia, <a href="https://zhuozheng.top/">Zhuo Zheng</a>, 
-and <a href="https://naotoyokoya.com/">Naoto Yokoya†</a></h5>
+and <a href="https://naotoyokoya.com/">Naoto Yokoya†</a></h6>
 
 <h6 align="right">
 * Equal Contributions
