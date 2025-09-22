@@ -9,7 +9,7 @@ Junshi Xia, <a href="https://zhuozheng.top/">Zhuo Zheng</a>, <a href="https://na
 
 <h5 align="center">
 * Equal Contributions
-† Equal Contribution</h5>
+† Corresponding Author</h5>
 
 [[`Paper`](https://arxiv.org/abs/2505.21089)],
 [[`Dataset`]()]
