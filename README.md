@@ -3,8 +3,7 @@
 <h6 align="right"><a href="https://junjue-wang.github.io/homepage/">Junjue Wang*</a>, 
 <a href="https://weihaoxuan.com">Weihao Xuan*</a>, 
 Heli Qi, Zhihao Liu, Kunyi Liu, Yuhan Wu, Hongruixuan Chen,
-Jian Song, Junshi Xia, <a href="https://zhuozheng.top/">Zhuo Zheng</a>, 
-and <a href="https://naotoyokoya.com/">Naoto Yokoya†</a></h6>
+Jian Song, Junshi Xia, <a href="https://zhuozheng.top/">Zhuo Zheng</a>, <a href="https://naotoyokoya.com/">Naoto Yokoya†</a></h6>
 
 <h6 align="right">
 * Equal Contributions
