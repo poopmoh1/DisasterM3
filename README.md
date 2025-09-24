@@ -19,13 +19,19 @@ Junshi Xia, <a href="https://zhuozheng.top/">Zhuo Zheng</a>, <a href="https://na
   <img src="https://github.com/Junjue-Wang/resources/blob/main/DisasterM3/task_taxonomy.png?raw=true">
 </div>
 
+## Highlights
+DisasterM3 includes 26,988 bi-temporal satellite images and 123k instruction pairs across 5 continents, with three characteristics
+1. Multi-hazard: 36 historical disaster events with significant impacts, which are categorized into 10 common natural and man-made disasters
+2. Multi-sensor: Extreme weather during disasters often hinders optical sensor imaging, making it necessary to combine Synthetic Aperture Radar (SAR) imagery for post-disaster scenes
+3. Multi-task: 9 disaster-related visual perception and reasoning tasks, harnessing the full potential of VLM's reasoning ability
+
+
 ## News
 - 2025/09/22, We are preparing the dataset and code.
 - 2025/09/22, Our paper got accepted by NeurIPS 2025.
 
 
-
-
+## Benchmark
 
 Please run this code for benchmarking the DisasterM3 dataset.
 Two examples:
@@ -38,3 +44,23 @@ InternVL3:
 python disaster_m3/pyscripts/run_vllm.py --model_id OpenGVLab/InternVL3-78B --subset caption
 ```
 
+
+## Citation
+If you use DisasterM3 in your research, please cite our following papers.
+```text
+  @article{wang2025disasterm3,
+  title={DisasterM3: A Remote Sensing Vision-Language Dataset for Disaster Damage Assessment and Response},
+  author={Wang, Junjue and Xuan, Weihao and Qi, Heli and Liu, Zhihao and Liu, Kunyi and Wu, Yuhan and Chen, Hongruixuan and Song, Jian and Xia, Junshi and Zheng, Zhuo and others},
+  booktitle={Proceedings of the Neural Information Processing Systems},
+  year={2025}
+}
+```
+
+
+
+## License
+All images and their associated annotations in DisasterM3 can be used for academic purposes only,
+<font color="red"><b> but any commercial use is prohibited.</b></font>
+
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en">
+<img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
