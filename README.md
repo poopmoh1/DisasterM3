@@ -20,7 +20,7 @@ Junshi Xia, <a href="https://zhuozheng.top/">Zhuo Zheng</a>, <a href="https://na
 </div>
 
 ## Highlights
-DisasterM3 includes 26,988 bi-temporal satellite images and 123k instruction pairs across 5 continents, with three characteristics
+DisasterM3 includes 26,988 bi-temporal satellite images and 123k instruction pairs across 5 continents, with three characteristics:
 1. Multi-hazard: 36 historical disaster events with significant impacts, which are categorized into 10 common natural and man-made disasters
 2. Multi-sensor: Extreme weather during disasters often hinders optical sensor imaging, making it necessary to combine Synthetic Aperture Radar (SAR) imagery for post-disaster scenes
 3. Multi-task: 9 disaster-related visual perception and reasoning tasks, harnessing the full potential of VLM's reasoning ability
@@ -56,6 +56,16 @@ If you use DisasterM3 in your research, please cite our following papers.
 }
 ```
 
+## Acknowledgments
+This dataset builds upon the following excellent open datasets:
+- **xBD** by Ritwik Gupta
+    - [Paper](https://openaccess.thecvf.com/content_CVPRW_2019/html/cv4gc/Gupta_Creating_xBD_A_Dataset_for_Assessing_Building_Damage_from_Satellite_CVPRW_2019_paper.html)
+    - [Dataset](https://xview2.org/dataset)
+    - License: [CC BY-NC-SA 4.0]
+
+- **[BRIGHT]** by Hongruixuan Chen
+    - [Repository](https://github.com/ChenHongruixuan/BRIGHT)
+    - License: [CC BY-NC 4.0]
 
 
 ## License
