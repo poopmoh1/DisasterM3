@@ -12,7 +12,7 @@ Junshi Xia, <a href="https://zhuozheng.top/">Zhuo Zheng</a>, <a href="https://na
 † Corresponding Author</h5>
 
 [[`Paper`](https://arxiv.org/abs/2505.21089)],
-[[`Dataset`](mailto:kingdrone@edu.k.u-tokyo.ac.jp?subject=DisasterM3 Dataset%20Request)]
+[[`Dataset`](mailto:kingdrone@edu.k.u-tokyo.ac.jp?subject=Dataset%20Request)]
 
 
 <div align="center">
