@@ -41,7 +41,7 @@ python disaster_m3/pyscripts/run_vllm.py --model_id Qwen/Qwen2.5-VL-7B-Instruct 
 ```
 InternVL3:
 ```
-python disaster_m3/pyscripts/run_vllm.py --model_id OpenGVLab/InternVL3-78B --subset caption
+python disaster_m3/pyscripts/run_vllm.py --model_id OpenGVLab/InternVL3-78B --subset report
 ```
 
 
@@ -58,12 +58,12 @@ If you use DisasterM3 in your research, please cite our following papers.
 
 ## Acknowledgments
 This dataset builds upon the following excellent open datasets:
-- **xBD** by Ritwik Gupta
+- **xBD dataset** by Ritwik Gupta
     - [Paper](https://openaccess.thecvf.com/content_CVPRW_2019/html/cv4gc/Gupta_Creating_xBD_A_Dataset_for_Assessing_Building_Damage_from_Satellite_CVPRW_2019_paper.html)
     - [Dataset](https://xview2.org/dataset)
     - License: [CC BY-NC-SA 4.0]
 
-- **[BRIGHT]** by Hongruixuan Chen
+- **BRIGHT dataset** by Hongruixuan Chen
     - [Repository](https://github.com/ChenHongruixuan/BRIGHT)
     - License: [CC BY-NC 4.0]
 
