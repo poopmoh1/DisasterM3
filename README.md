@@ -50,7 +50,7 @@ If you use DisasterM3 in your research, please cite our following papers.
 ```text
   @article{wang2025disasterm3,
   title={DisasterM3: A Remote Sensing Vision-Language Dataset for Disaster Damage Assessment and Response},
-  author={Wang, Junjue and Xuan, Weihao and Qi, Heli and Liu, Zhihao and Liu, Kunyi and Wu, Yuhan and Chen, Hongruixuan and Song, Jian and Xia, Junshi and Zheng, Zhuo and others},
+  author={Wang, Junjue and Xuan, Weihao and Qi, Heli and Liu, Zhihao and Liu, Kunyi and Wu, Yuhan and Chen, Hongruixuan and Song, Jian and Xia, Junshi and Zheng, Zhuo and Yokoya, Naoto},
   booktitle={Proceedings of the Neural Information Processing Systems},
   year={2025}
 }
