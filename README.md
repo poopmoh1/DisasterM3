@@ -9,7 +9,7 @@
     src="https://github.com/Junjue-Wang/resources/blob/main/DisasterM3/icon.png?raw=true"
     alt="Disaster icon"
     height="40"
-    style="vertical-align:-5px;"
+    style="vertical-align:-20px;"
   />
   DisasterM3: A Remote Sensing Vision-Language Dataset for Disaster Damage Assessment and Response
 </h2>
