@@ -1,4 +1,18 @@
-<h2 align="center">DisasterM3: A Remote Sensing Vision-Language Dataset for Disaster Damage Assessment and Response</h2>
+
+[//]: # (<img src="https://github.com/Junjue-Wang/resources/blob/main/DisasterM3/icon.png?raw=true" alt="icon" height="28" style="vertical-align: -4px; margin-right: 6px;">)
+
+[//]: # ()
+[//]: # (<h2 align="center">DisasterM3: A Remote Sensing Vision-Language Dataset for Disaster Damage Assessment and Response</h2>)
+
+<h2 align="center">
+  <img
+    src="https://github.com/Junjue-Wang/resources/blob/main/DisasterM3/icon.png?raw=true"
+    alt="Disaster icon"
+    height="40"
+    style="vertical-align:-5px;"
+  />
+  DisasterM3: A Remote Sensing Vision-Language Dataset for Disaster Damage Assessment and Response
+</h2>
 
 <h5 align="center"><a href="https://junjue-wang.github.io/homepage/">Junjue Wang*</a>, 
 <a href="https://weihaoxuan.com">Weihao Xuan*</a>, 
