@@ -1,21 +1,15 @@
-
-[//]: # (<img src="https://github.com/Junjue-Wang/resources/blob/main/DisasterM3/icon.png?raw=true" alt="icon" height="28" style="vertical-align: -4px; margin-right: 6px;">)
-
-[//]: # ()
-[//]: # (<h2 align="center">DisasterM3: A Remote Sensing Vision-Language Dataset for Disaster Damage Assessment and Response</h2>)
-
 <h2 align="center">
   <img
     src="https://github.com/Junjue-Wang/resources/blob/main/DisasterM3/icon.png?raw=true"
     alt="Disaster icon"
-    height="40"
-    style="vertical-align:-5px;"
+    height="50"
+    style="vertical-align:-16px;"
   />
   DisasterM3: A Remote Sensing Vision-Language Dataset for Disaster Damage Assessment and Response
 </h2>
 
-<h5 align="center"><a href="https://junjue-wang.github.io/homepage/">Junjue Wang*</a>, 
-<a href="https://weihaoxuan.com">Weihao Xuan*</a>, 
+<h5 align="center"><a href="https://junjue-wang.github.io/homepage/">Junjue Wang*</a>,
+<a href="https://weihaoxuan.com">Weihao Xuan*</a>,
 Heli Qi, Zhihao Liu, Kunyi Liu, Yuhan Wu, <a href="https://chrx97.com/"> Hongruixuan Chen</a>,
 <a href="https://jtrneo.github.io/"> Jian Song</a></h5>
 <h5 align="center">
@@ -73,13 +67,13 @@ If you use DisasterM3 in your research, please cite our following papers.
 ## Acknowledgments
 This dataset builds upon the following excellent open datasets:
 - **xBD dataset** by Ritwik Gupta
-    - [Paper](https://openaccess.thecvf.com/content_CVPRW_2019/html/cv4gc/Gupta_Creating_xBD_A_Dataset_for_Assessing_Building_Damage_from_Satellite_CVPRW_2019_paper.html)
-    - [Dataset](https://xview2.org/dataset)
-    - License: [CC BY-NC-SA 4.0]
+  - [Paper](https://openaccess.thecvf.com/content_CVPRW_2019/html/cv4gc/Gupta_Creating_xBD_A_Dataset_for_Assessing_Building_Damage_from_Satellite_CVPRW_2019_paper.html)
+  - [Dataset](https://xview2.org/dataset)
+  - License: [CC BY-NC-SA 4.0]
 
 - **BRIGHT dataset** by Hongruixuan Chen
-    - [Repository](https://github.com/ChenHongruixuan/BRIGHT)
-    - License: [CC BY-NC 4.0]
+  - [Repository](https://github.com/ChenHongruixuan/BRIGHT)
+  - License: [CC BY-NC 4.0]
 
 
 ## License
