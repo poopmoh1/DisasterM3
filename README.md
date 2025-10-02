@@ -1,5 +1,5 @@
 
-[//]: # (<img src="https://github.com/Junjue-Wang/resources/blob/main/DisasterM3/icon.png?raw=true" alt="icon" height="40" style="vertical-align: -20px; margin-right: 6px;">)
+[//]: # (<img src="https://github.com/Junjue-Wang/resources/blob/main/DisasterM3/icon.png?raw=true" alt="icon" height="40" style="vertical-align: 20px; margin-right: 6px;">)
 
 [//]: # ()
 [//]: # (<h2 align="center">DisasterM3: A Remote Sensing Vision-Language Dataset for Disaster Damage Assessment and Response</h2>)
